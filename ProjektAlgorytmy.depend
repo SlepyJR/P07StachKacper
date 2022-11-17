@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668633928 source:x:\codeblocks\projektalgorytmy\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cstdlib>
+	<iterator>
+	<ctime>
+	<vector>
+	<time.h>
+	<chrono>
+	<fstream>
+
